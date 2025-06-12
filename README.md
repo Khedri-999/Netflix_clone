@@ -1,16 +1,10 @@
-# netflix_clone
+📺 FlixClone is a minimal Netflix-like app built with Flutter & Dart. It features a clean UI with movie posters, categories, and a simple video player.
+Features
 
-A new Flutter project.
+    Browse movies & shows
 
-## Getting Started
+    Horizontal scrolling categories
 
-This project is a starting point for a Flutter application.
+    Basic video player (using video_player package)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Simple UI with dark theme
